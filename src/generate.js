@@ -18,14 +18,18 @@ const SOCCER_ALIASES = {
   brighton: ["brighton & hove albion", "brighton & hove albion fc", "brighton"],
   "manchester-united": ["manchester united", "manchester united fc", "man united"],
   bayern: ["fc bayern münchen", "bayern münchen", "bayern munich", "fc bayern munich"],
+  england: ["england"],
+  norway: ["norway"],
 };
 const SOCCER_NAMES = {
   everton: "Everton",
   brighton: "Brighton",
   "manchester-united": "Manchester United",
   bayern: "Bayern Munich",
+  england: "England",
+  norway: "Norway",
 };
-const SOCCER_COMPETITIONS = ["PL", "BL1", "CL"];
+const SOCCER_COMPETITIONS = ["PL", "BL1", "CL", "UNL"];
 const ARCHIVE_PATH = path.resolve("data/archive.json");
 
 function clean(v) { return String(v ?? "").replace(/\s+/g, " ").trim(); }
@@ -160,6 +164,8 @@ async function main() {
     ["soccer/brighton.ics", "Brighton"],
     ["soccer/manchester-united.ics", "Manchester United"],
     ["soccer/bayern.ics", "Bayern Munich"],
+    ["soccer/england.ics", "England"],
+    ["soccer/norway.ics", "Norway"],
   ].map(([href, label]) => `<a href="${href}">${label}</a>`).join("");
   await fs.writeFile(path.resolve("public/index.html"),
     `<!doctype html><meta charset="utf-8"><title>Sports Calendar</title><meta name="viewport" content="width=device-width,initial-scale=1"><style>body{font:16px system-ui;max-width:42rem;margin:3rem auto;padding:0 1rem;line-height:1.5}a{display:block;margin:.8rem 0}</style><h1>Sports Calendar</h1><p>Spoiler-free schedules for the teams you follow.</p>${links}<small>Last generated: ${generated}</small>`);
