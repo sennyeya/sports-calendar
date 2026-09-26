@@ -20,6 +20,7 @@ const SOCCER_ALIASES = {
   bayern: ["fc bayern münchen", "bayern münchen", "bayern munich", "fc bayern munich"],
   england: ["england"],
   norway: ["norway"],
+  france: ["france"],
 };
 const SOCCER_NAMES = {
   everton: "Everton",
@@ -28,6 +29,7 @@ const SOCCER_NAMES = {
   bayern: "Bayern Munich",
   england: "England",
   norway: "Norway",
+  france: "France",
 };
 const SOCCER_COMPETITIONS = ["PL", "BL1", "CL", "UNL"];
 const ARCHIVE_PATH = path.resolve("data/archive.json");
@@ -166,6 +168,7 @@ async function main() {
     ["soccer/bayern.ics", "Bayern Munich"],
     ["soccer/england.ics", "England"],
     ["soccer/norway.ics", "Norway"],
+    ["soccer/france.ics", "France"],
   ].map(([href, label]) => `<a href="${href}">${label}</a>`).join("");
   await fs.writeFile(path.resolve("public/index.html"),
     `<!doctype html><meta charset="utf-8"><title>Sports Calendar</title><meta name="viewport" content="width=device-width,initial-scale=1"><style>body{font:16px system-ui;max-width:42rem;margin:3rem auto;padding:0 1rem;line-height:1.5}a{display:block;margin:.8rem 0}</style><h1>Sports Calendar</h1><p>Spoiler-free schedules for the teams you follow.</p>${links}<small>Last generated: ${generated}</small>`);
