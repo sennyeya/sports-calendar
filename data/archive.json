@@ -1132,5 +1132,131 @@
     "end": "2026-09-20T18:47:48.000Z",
     "summary": "🎮 Aurora Gaming vs Vitality",
     "description": "StarLadder StarSeries · Fall 2026 · Playoffs"
+  },
+  "uefa-unl-2026-2026-09-26-england-spain@sports-calendar": {
+    "id": "uefa-unl-2026-2026-09-26-england-spain@sports-calendar",
+    "start": "2026-09-26T18:45:00.000Z",
+    "end": "2026-09-26T20:45:00.000Z",
+    "summary": "⚽ England vs Spain",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-09-29-czechia-england@sports-calendar": {
+    "id": "uefa-unl-2026-2026-09-29-czechia-england@sports-calendar",
+    "start": "2026-09-29T18:45:00.000Z",
+    "end": "2026-09-29T20:45:00.000Z",
+    "summary": "⚽ Czechia vs England",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-10-03-croatia-england@sports-calendar": {
+    "id": "uefa-unl-2026-2026-10-03-croatia-england@sports-calendar",
+    "start": "2026-10-03T16:00:00.000Z",
+    "end": "2026-10-03T18:00:00.000Z",
+    "summary": "⚽ Croatia vs England",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-10-06-england-czechia@sports-calendar": {
+    "id": "uefa-unl-2026-2026-10-06-england-czechia@sports-calendar",
+    "start": "2026-10-06T18:45:00.000Z",
+    "end": "2026-10-06T20:45:00.000Z",
+    "summary": "⚽ England vs Czechia",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-11-12-england-croatia@sports-calendar": {
+    "id": "uefa-unl-2026-2026-11-12-england-croatia@sports-calendar",
+    "start": "2026-11-12T19:45:00.000Z",
+    "end": "2026-11-12T21:45:00.000Z",
+    "summary": "⚽ England vs Croatia",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-11-15-spain-england@sports-calendar": {
+    "id": "uefa-unl-2026-2026-11-15-spain-england@sports-calendar",
+    "start": "2026-11-15T19:45:00.000Z",
+    "end": "2026-11-15T21:45:00.000Z",
+    "summary": "⚽ Spain vs England",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-09-24-norway-denmark@sports-calendar": {
+    "id": "uefa-unl-2026-2026-09-24-norway-denmark@sports-calendar",
+    "start": "2026-09-24T18:45:00.000Z",
+    "end": "2026-09-24T20:45:00.000Z",
+    "summary": "⚽ Norway vs Denmark",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-09-27-norway-portugal@sports-calendar": {
+    "id": "uefa-unl-2026-2026-09-27-norway-portugal@sports-calendar",
+    "start": "2026-09-27T18:45:00.000Z",
+    "end": "2026-09-27T20:45:00.000Z",
+    "summary": "⚽ Norway vs Portugal",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-10-01-wales-norway@sports-calendar": {
+    "id": "uefa-unl-2026-2026-10-01-wales-norway@sports-calendar",
+    "start": "2026-10-01T18:45:00.000Z",
+    "end": "2026-10-01T20:45:00.000Z",
+    "summary": "⚽ Wales vs Norway",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-10-04-portugal-norway@sports-calendar": {
+    "id": "uefa-unl-2026-2026-10-04-portugal-norway@sports-calendar",
+    "start": "2026-10-04T18:45:00.000Z",
+    "end": "2026-10-04T20:45:00.000Z",
+    "summary": "⚽ Portugal vs Norway",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-11-14-norway-wales@sports-calendar": {
+    "id": "uefa-unl-2026-2026-11-14-norway-wales@sports-calendar",
+    "start": "2026-11-14T17:00:00.000Z",
+    "end": "2026-11-14T19:00:00.000Z",
+    "summary": "⚽ Norway vs Wales",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-11-17-denmark-norway@sports-calendar": {
+    "id": "uefa-unl-2026-2026-11-17-denmark-norway@sports-calendar",
+    "start": "2026-11-17T19:45:00.000Z",
+    "end": "2026-11-17T21:45:00.000Z",
+    "summary": "⚽ Denmark vs Norway",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-09-25-türkiye-france@sports-calendar": {
+    "id": "uefa-unl-2026-2026-09-25-türkiye-france@sports-calendar",
+    "start": "2026-09-25T18:45:00.000Z",
+    "end": "2026-09-25T20:45:00.000Z",
+    "summary": "⚽ Türkiye vs France",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-09-28-belgium-france@sports-calendar": {
+    "id": "uefa-unl-2026-2026-09-28-belgium-france@sports-calendar",
+    "start": "2026-09-28T18:45:00.000Z",
+    "end": "2026-09-28T20:45:00.000Z",
+    "summary": "⚽ Belgium vs France",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-10-02-france-italy@sports-calendar": {
+    "id": "uefa-unl-2026-2026-10-02-france-italy@sports-calendar",
+    "start": "2026-10-02T18:45:00.000Z",
+    "end": "2026-10-02T20:45:00.000Z",
+    "summary": "⚽ France vs Italy",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-10-05-france-belgium@sports-calendar": {
+    "id": "uefa-unl-2026-2026-10-05-france-belgium@sports-calendar",
+    "start": "2026-10-05T18:45:00.000Z",
+    "end": "2026-10-05T20:45:00.000Z",
+    "summary": "⚽ France vs Belgium",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-11-12-italy-france@sports-calendar": {
+    "id": "uefa-unl-2026-2026-11-12-italy-france@sports-calendar",
+    "start": "2026-11-12T19:45:00.000Z",
+    "end": "2026-11-12T21:45:00.000Z",
+    "summary": "⚽ Italy vs France",
+    "description": "UEFA Nations League"
+  },
+  "uefa-unl-2026-2026-11-15-france-türkiye@sports-calendar": {
+    "id": "uefa-unl-2026-2026-11-15-france-türkiye@sports-calendar",
+    "start": "2026-11-15T19:45:00.000Z",
+    "end": "2026-11-15T21:45:00.000Z",
+    "summary": "⚽ France vs Türkiye",
+    "description": "UEFA Nations League"
   }
 }
