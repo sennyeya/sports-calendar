@@ -31,7 +31,12 @@ const SOCCER_NAMES = {
   norway: "Norway",
   france: "France",
 };
-const SOCCER_COMPETITIONS = ["PL", "BL1", "CL", "UNL"];
+const SOCCER_COMPETITIONS = ["PL", "BL1", "CL"];
+const NATIONS_LEAGUE_FIXTURES = [
+  ["2026-09-26T18:45:00Z","England","Spain"], ["2026-09-29T18:45:00Z","Czechia","England"], ["2026-10-03T16:00:00Z","Croatia","England"], ["2026-10-06T18:45:00Z","England","Czechia"], ["2026-11-12T19:45:00Z","England","Croatia"], ["2026-11-15T19:45:00Z","Spain","England"],
+  ["2026-09-24T18:45:00Z","Norway","Denmark"], ["2026-09-27T18:45:00Z","Norway","Portugal"], ["2026-10-01T18:45:00Z","Wales","Norway"], ["2026-10-04T18:45:00Z","Portugal","Norway"], ["2026-11-14T17:00:00Z","Norway","Wales"], ["2026-11-17T19:45:00Z","Denmark","Norway"],
+  ["2026-09-25T18:45:00Z","Türkiye","France"], ["2026-09-28T18:45:00Z","Belgium","France"], ["2026-10-02T18:45:00Z","France","Italy"], ["2026-10-05T18:45:00Z","France","Belgium"], ["2026-11-12T19:45:00Z","Italy","France"], ["2026-11-15T19:45:00Z","France","Türkiye"],
+];
 const ARCHIVE_PATH = path.resolve("data/archive.json");
 
 function clean(v) { return String(v ?? "").replace(/\s+/g, " ").trim(); }
@@ -124,6 +129,13 @@ async function fetchSoccer() {
   return [...byId.values()];
 }
 
+function nationsLeagueEvents() {
+  return NATIONS_LEAGUE_FIXTURES.map(([iso, home, away]) => {
+    const start = new Date(iso);
+    return { id: `uefa-unl-2026-${iso.slice(0,10)}-${normalize(home)}-${normalize(away)}@sports-calendar`, start, end: new Date(start.getTime() + 2 * 3600000), summary: `⚽ ${home} vs ${away}`, description: "UEFA Nations League" };
+  });
+}
+
 async function loadArchive() {
   try { return JSON.parse(await fs.readFile(ARCHIVE_PATH, "utf8")); }
   catch (error) { if (error.code === "ENOENT") return {}; throw error; }
@@ -149,7 +161,8 @@ async function main() {
     await fs.writeFile(path.resolve(`public/soccer/${slug}.ics`), calendarString(`Soccer — ${SOCCER_NAMES[slug]}`, events));
   }
 
-  const discovered = [...cs2Relevant.map(cs2Event), ...soccerRelevant.map(soccerEvent)].filter(Boolean);
+  const nationsLeague = nationsLeagueEvents();
+  const discovered = [...cs2Relevant.map(cs2Event), ...soccerRelevant.map(soccerEvent), ...nationsLeague].filter(Boolean);
   for (const event of discovered) archive[event.id] = { ...event, start: event.start.toISOString(), end: event.end.toISOString() };
   await fs.mkdir(path.dirname(ARCHIVE_PATH), { recursive: true });
   await fs.writeFile(ARCHIVE_PATH, JSON.stringify(archive, null, 2) + "\n");
