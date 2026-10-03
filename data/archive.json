@@ -1276,8 +1276,15 @@
   "pandascore-1711349@sports-calendar": {
     "id": "pandascore-1711349@sports-calendar",
     "start": "2026-10-03T12:07:20.000Z",
-    "end": "2026-10-03T15:07:20.000Z",
+    "end": "2026-10-03T15:05:19.000Z",
     "summary": "🎮 Spirit vs ShindeN",
+    "description": "ESL Pro League · Season 24 2026 · Group Stage"
+  },
+  "pandascore-1711377@sports-calendar": {
+    "id": "pandascore-1711377@sports-calendar",
+    "start": "2026-10-04T09:00:00.000Z",
+    "end": "2026-10-04T12:00:00.000Z",
+    "summary": "🎮 Spirit vs PARIVISION",
     "description": "ESL Pro League · Season 24 2026 · Group Stage"
   }
 }
