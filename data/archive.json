@@ -1286,5 +1286,19 @@
     "end": "2026-10-04T12:00:00.000Z",
     "summary": "🎮 Spirit vs PARIVISION",
     "description": "ESL Pro League · Season 24 2026 · Group Stage"
+  },
+  "pandascore-1711382@sports-calendar": {
+    "id": "pandascore-1711382@sports-calendar",
+    "start": "2026-10-04T16:30:00.000Z",
+    "end": "2026-10-04T19:30:00.000Z",
+    "summary": "🎮 Vitality vs Natus Vincere",
+    "description": "ESL Pro League · Season 24 2026 · Group Stage"
+  },
+  "pandascore-1711380@sports-calendar": {
+    "id": "pandascore-1711380@sports-calendar",
+    "start": "2026-10-04T11:30:00.000Z",
+    "end": "2026-10-04T14:30:00.000Z",
+    "summary": "🎮 Team Falcons vs Aurora Gaming",
+    "description": "ESL Pro League · Season 24 2026 · Group Stage"
   }
 }
