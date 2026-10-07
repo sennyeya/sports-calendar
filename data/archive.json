@@ -1331,9 +1331,23 @@
   },
   "pandascore-1711471@sports-calendar": {
     "id": "pandascore-1711471@sports-calendar",
-    "start": "2026-10-07T17:00:00.000Z",
-    "end": "2026-10-07T20:00:00.000Z",
+    "start": "2026-10-07T18:08:22.000Z",
+    "end": "2026-10-07T20:10:36.000Z",
     "summary": "🎮 Spirit vs M80",
     "description": "ESL Pro League · Season 24 2026 · Group Stage"
+  },
+  "pandascore-1711478@sports-calendar": {
+    "id": "pandascore-1711478@sports-calendar",
+    "start": "2026-10-09T16:00:00.000Z",
+    "end": "2026-10-09T19:00:00.000Z",
+    "summary": "🎮 Team Falcons vs Spirit",
+    "description": "ESL Pro League · Season 24 2026 · Playoffs"
+  },
+  "pandascore-1711476@sports-calendar": {
+    "id": "pandascore-1711476@sports-calendar",
+    "start": "2026-10-09T11:00:00.000Z",
+    "end": "2026-10-09T14:00:00.000Z",
+    "summary": "🎮 Vitality vs PARIVISION",
+    "description": "ESL Pro League · Season 24 2026 · Playoffs"
   }
 }
