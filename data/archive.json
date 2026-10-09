@@ -1338,16 +1338,23 @@
   },
   "pandascore-1711478@sports-calendar": {
     "id": "pandascore-1711478@sports-calendar",
-    "start": "2026-10-09T16:00:00.000Z",
-    "end": "2026-10-09T19:00:00.000Z",
+    "start": "2026-10-09T16:30:00.000Z",
+    "end": "2026-10-09T19:30:00.000Z",
     "summary": "🎮 Team Falcons vs Spirit",
     "description": "ESL Pro League · Season 24 2026 · Playoffs"
   },
   "pandascore-1711476@sports-calendar": {
     "id": "pandascore-1711476@sports-calendar",
-    "start": "2026-10-09T11:00:00.000Z",
-    "end": "2026-10-09T14:00:00.000Z",
+    "start": "2026-10-09T11:34:05.000Z",
+    "end": "2026-10-09T13:21:32.000Z",
     "summary": "🎮 Vitality vs PARIVISION",
+    "description": "ESL Pro League · Season 24 2026 · Playoffs"
+  },
+  "pandascore-1711479@sports-calendar": {
+    "id": "pandascore-1711479@sports-calendar",
+    "start": "2026-10-10T13:45:00.000Z",
+    "end": "2026-10-10T16:45:00.000Z",
+    "summary": "🎮 Aurora Gaming vs Vitality",
     "description": "ESL Pro League · Season 24 2026 · Playoffs"
   }
 }
