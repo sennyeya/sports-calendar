@@ -1360,7 +1360,7 @@
   "pandascore-1711480@sports-calendar": {
     "id": "pandascore-1711480@sports-calendar",
     "start": "2026-10-10T17:45:36.000Z",
-    "end": "2026-10-10T20:45:36.000Z",
+    "end": "2026-10-10T20:46:42.000Z",
     "summary": "🎮 MOUZ vs Spirit",
     "description": "ESL Pro League · Season 24 2026 · Playoffs"
   },
@@ -1370,5 +1370,19 @@
     "end": "2026-10-14T14:00:00.000Z",
     "summary": "🎮 Team Falcons vs NIP",
     "description": "Thunderpick World Championship · 2026 · Group A"
+  },
+  "pandascore-1711482@sports-calendar": {
+    "id": "pandascore-1711482@sports-calendar",
+    "start": "2026-10-11T15:00:00.000Z",
+    "end": "2026-10-11T18:00:00.000Z",
+    "summary": "🎮 Vitality vs MOUZ",
+    "description": "ESL Pro League · Season 24 2026 · Playoffs"
+  },
+  "pandascore-1711481@sports-calendar": {
+    "id": "pandascore-1711481@sports-calendar",
+    "start": "2026-10-11T11:30:00.000Z",
+    "end": "2026-10-11T14:30:00.000Z",
+    "summary": "🎮 Aurora Gaming vs Spirit",
+    "description": "ESL Pro League · Season 24 2026 · Playoffs"
   }
 }
