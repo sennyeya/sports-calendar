@@ -1409,8 +1409,15 @@
   "pandascore-1741366@sports-calendar": {
     "id": "pandascore-1741366@sports-calendar",
     "start": "2026-10-17T17:00:15.000Z",
-    "end": "2026-10-17T20:00:15.000Z",
+    "end": "2026-10-17T20:09:56.000Z",
     "summary": "🎮 Team Falcons vs BetBoom Team",
+    "description": "Thunderpick World Championship · 2026 · Playoffs"
+  },
+  "pandascore-1741368@sports-calendar": {
+    "id": "pandascore-1741368@sports-calendar",
+    "start": "2026-10-18T11:30:00.000Z",
+    "end": "2026-10-18T14:30:00.000Z",
+    "summary": "🎮 Aurora Gaming vs Team Falcons",
     "description": "Thunderpick World Championship · 2026 · Playoffs"
   }
 }
