@@ -246,22 +246,22 @@
   },
   "football-data-560666@sports-calendar": {
     "id": "football-data-560666@sports-calendar",
-    "start": "2026-12-02T20:00:00.000Z",
-    "end": "2026-12-02T22:00:00.000Z",
+    "start": "2026-12-02T20:15:00.000Z",
+    "end": "2026-12-02T22:15:00.000Z",
     "summary": "⚽ Aston Villa FC vs Everton FC",
     "description": "Premier League"
   },
   "football-data-560670@sports-calendar": {
     "id": "football-data-560670@sports-calendar",
-    "start": "2026-12-02T20:00:00.000Z",
-    "end": "2026-12-02T22:00:00.000Z",
+    "start": "2026-12-02T20:15:00.000Z",
+    "end": "2026-12-02T22:15:00.000Z",
     "summary": "⚽ Newcastle United FC vs Manchester United FC",
     "description": "Premier League"
   },
   "football-data-560671@sports-calendar": {
     "id": "football-data-560671@sports-calendar",
-    "start": "2026-12-02T20:00:00.000Z",
-    "end": "2026-12-02T22:00:00.000Z",
+    "start": "2026-12-02T20:15:00.000Z",
+    "end": "2026-12-02T22:15:00.000Z",
     "summary": "⚽ AFC Bournemouth vs Brighton & Hove Albion FC",
     "description": "Premier League"
   },
@@ -274,36 +274,36 @@
   },
   "football-data-560680@sports-calendar": {
     "id": "football-data-560680@sports-calendar",
-    "start": "2026-12-05T15:00:00.000Z",
-    "end": "2026-12-05T17:00:00.000Z",
+    "start": "2026-12-05T17:30:00.000Z",
+    "end": "2026-12-05T19:30:00.000Z",
     "summary": "⚽ Nottingham Forest FC vs Brighton & Hove Albion FC",
     "description": "Premier League"
   },
   "football-data-560681@sports-calendar": {
     "id": "football-data-560681@sports-calendar",
-    "start": "2026-12-05T15:00:00.000Z",
-    "end": "2026-12-05T17:00:00.000Z",
+    "start": "2026-12-06T14:00:00.000Z",
+    "end": "2026-12-06T16:00:00.000Z",
     "summary": "⚽ Everton FC vs Fulham FC",
     "description": "Premier League"
   },
   "football-data-560683@sports-calendar": {
     "id": "football-data-560683@sports-calendar",
-    "start": "2026-12-12T15:00:00.000Z",
-    "end": "2026-12-12T17:00:00.000Z",
+    "start": "2026-12-13T19:00:00.000Z",
+    "end": "2026-12-13T21:00:00.000Z",
     "summary": "⚽ Crystal Palace FC vs Manchester United FC",
     "description": "Premier League"
   },
   "football-data-560685@sports-calendar": {
     "id": "football-data-560685@sports-calendar",
-    "start": "2026-12-12T15:00:00.000Z",
-    "end": "2026-12-12T17:00:00.000Z",
+    "start": "2026-12-13T14:00:00.000Z",
+    "end": "2026-12-13T16:00:00.000Z",
     "summary": "⚽ Brighton & Hove Albion FC vs Everton FC",
     "description": "Premier League"
   },
   "football-data-560693@sports-calendar": {
     "id": "football-data-560693@sports-calendar",
-    "start": "2026-12-19T15:00:00.000Z",
-    "end": "2026-12-19T17:00:00.000Z",
+    "start": "2026-12-20T14:00:00.000Z",
+    "end": "2026-12-20T16:00:00.000Z",
     "summary": "⚽ Brighton & Hove Albion FC vs Ipswich Town FC",
     "description": "Premier League"
   },
@@ -316,8 +316,8 @@
   },
   "football-data-560699@sports-calendar": {
     "id": "football-data-560699@sports-calendar",
-    "start": "2026-12-19T15:00:00.000Z",
-    "end": "2026-12-19T17:00:00.000Z",
+    "start": "2026-12-20T16:30:00.000Z",
+    "end": "2026-12-20T18:30:00.000Z",
     "summary": "⚽ Arsenal FC vs Manchester United FC",
     "description": "Premier League"
   },
