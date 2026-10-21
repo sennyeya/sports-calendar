@@ -1426,5 +1426,19 @@
     "end": "2026-11-02T10:00:00.000Z",
     "summary": "🎮 Natus Vincere vs Team Falcons",
     "description": "IEM · Beijing 2026 · Group A"
+  },
+  "pandascore-1762459@sports-calendar": {
+    "id": "pandascore-1762459@sports-calendar",
+    "start": "2026-11-11T07:00:00.000Z",
+    "end": "2026-11-11T10:00:00.000Z",
+    "summary": "🎮 Spirit vs FUT Esports",
+    "description": "BLAST Rivals · Fall 2026 · Group B"
+  },
+  "pandascore-1762451@sports-calendar": {
+    "id": "pandascore-1762451@sports-calendar",
+    "start": "2026-11-11T04:30:00.000Z",
+    "end": "2026-11-11T07:30:00.000Z",
+    "summary": "🎮 Vitality vs Team Falcons",
+    "description": "BLAST Rivals · Fall 2026 · Group A"
   }
 }
