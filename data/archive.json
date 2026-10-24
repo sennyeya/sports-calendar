@@ -1440,5 +1440,19 @@
     "end": "2026-11-11T07:30:00.000Z",
     "summary": "🎮 Vitality vs Team Falcons",
     "description": "BLAST Rivals · Fall 2026 · Group A"
+  },
+  "pandascore-1753698@sports-calendar": {
+    "id": "pandascore-1753698@sports-calendar",
+    "start": "2026-10-25T11:00:00.000Z",
+    "end": "2026-10-25T14:00:00.000Z",
+    "summary": "🎮 Vitality vs TheMongolz",
+    "description": "PGL Masters · Bucharest 2026 · Group Stage"
+  },
+  "pandascore-1753697@sports-calendar": {
+    "id": "pandascore-1753697@sports-calendar",
+    "start": "2026-10-25T08:00:00.000Z",
+    "end": "2026-10-25T11:00:00.000Z",
+    "summary": "🎮 Spirit vs TYLOO",
+    "description": "PGL Masters · Bucharest 2026 · Group Stage"
   }
 }
