@@ -1454,5 +1454,19 @@
     "end": "2026-10-25T09:29:01.000Z",
     "summary": "🎮 Spirit vs TYLOO",
     "description": "PGL Masters · Bucharest 2026 · Group Stage"
+  },
+  "pandascore-1753709@sports-calendar": {
+    "id": "pandascore-1753709@sports-calendar",
+    "start": "2026-10-26T14:00:00.000Z",
+    "end": "2026-10-26T17:00:00.000Z",
+    "summary": "🎮 Spirit vs FURIA",
+    "description": "PGL Masters · Bucharest 2026 · Group Stage"
+  },
+  "pandascore-1753706@sports-calendar": {
+    "id": "pandascore-1753706@sports-calendar",
+    "start": "2026-10-26T11:00:00.000Z",
+    "end": "2026-10-26T14:00:00.000Z",
+    "summary": "🎮 Vitality vs FUT Esports",
+    "description": "PGL Masters · Bucharest 2026 · Group Stage"
   }
 }
