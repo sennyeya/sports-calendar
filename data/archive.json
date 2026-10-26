@@ -1458,7 +1458,7 @@
   "pandascore-1753709@sports-calendar": {
     "id": "pandascore-1753709@sports-calendar",
     "start": "2026-10-26T13:44:36.000Z",
-    "end": "2026-10-26T16:44:36.000Z",
+    "end": "2026-10-26T16:44:25.000Z",
     "summary": "🎮 Spirit vs FURIA",
     "description": "PGL Masters · Bucharest 2026 · Group Stage"
   },
@@ -1467,6 +1467,20 @@
     "start": "2026-10-26T10:20:22.000Z",
     "end": "2026-10-26T13:19:26.000Z",
     "summary": "🎮 Vitality vs FUT Esports",
+    "description": "PGL Masters · Bucharest 2026 · Group Stage"
+  },
+  "pandascore-1753717@sports-calendar": {
+    "id": "pandascore-1753717@sports-calendar",
+    "start": "2026-10-27T17:00:00.000Z",
+    "end": "2026-10-27T20:00:00.000Z",
+    "summary": "🎮 Vitality vs Natus Vincere",
+    "description": "PGL Masters · Bucharest 2026 · Group Stage"
+  },
+  "pandascore-1753715@sports-calendar": {
+    "id": "pandascore-1753715@sports-calendar",
+    "start": "2026-10-27T14:00:00.000Z",
+    "end": "2026-10-27T17:00:00.000Z",
+    "summary": "🎮 Spirit vs MOUZ",
     "description": "PGL Masters · Bucharest 2026 · Group Stage"
   }
 }
