@@ -1422,8 +1422,8 @@
   },
   "pandascore-1761573@sports-calendar": {
     "id": "pandascore-1761573@sports-calendar",
-    "start": "2026-11-02T07:00:00.000Z",
-    "end": "2026-11-02T10:00:00.000Z",
+    "start": "2026-11-02T09:30:00.000Z",
+    "end": "2026-11-02T12:30:00.000Z",
     "summary": "🎮 Natus Vincere vs Team Falcons",
     "description": "IEM · Beijing 2026 · Group A"
   },
@@ -1502,6 +1502,13 @@
     "start": "2026-10-30T12:02:35.000Z",
     "end": "2026-10-30T13:58:20.000Z",
     "summary": "🎮 Nemiga vs Vitality",
+    "description": "PGL Masters · Bucharest 2026 · Playoffs"
+  },
+  "pandascore-1753689@sports-calendar": {
+    "id": "pandascore-1753689@sports-calendar",
+    "start": "2026-10-31T08:00:00.000Z",
+    "end": "2026-10-31T11:00:00.000Z",
+    "summary": "🎮 Vitality vs MOUZ",
     "description": "PGL Masters · Bucharest 2026 · Playoffs"
   }
 }
