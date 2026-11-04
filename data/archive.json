@@ -309,8 +309,8 @@
   },
   "football-data-560694@sports-calendar": {
     "id": "football-data-560694@sports-calendar",
-    "start": "2026-12-19T15:00:00.000Z",
-    "end": "2026-12-19T17:00:00.000Z",
+    "start": "2026-12-20T14:00:00.000Z",
+    "end": "2026-12-20T16:00:00.000Z",
     "summary": "⚽ Nottingham Forest FC vs Everton FC",
     "description": "Premier League"
   },
@@ -1528,7 +1528,7 @@
   "pandascore-1781468@sports-calendar": {
     "id": "pandascore-1781468@sports-calendar",
     "start": "2026-11-04T10:20:41.000Z",
-    "end": "2026-11-04T13:20:41.000Z",
+    "end": "2026-11-04T13:03:20.000Z",
     "summary": "🎮 Natus Vincere vs Team Falcons",
     "description": "IEM · Beijing 2026 · Group A"
   }
