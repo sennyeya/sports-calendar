@@ -1520,9 +1520,16 @@
   },
   "pandascore-1781467@sports-calendar": {
     "id": "pandascore-1781467@sports-calendar",
-    "start": "2026-11-04T04:30:00.000Z",
-    "end": "2026-11-04T07:30:00.000Z",
+    "start": "2026-11-04T04:33:42.000Z",
+    "end": "2026-11-04T06:22:35.000Z",
     "summary": "🎮 Heroic vs Team Falcons",
+    "description": "IEM · Beijing 2026 · Group A"
+  },
+  "pandascore-1781468@sports-calendar": {
+    "id": "pandascore-1781468@sports-calendar",
+    "start": "2026-11-04T10:20:41.000Z",
+    "end": "2026-11-04T13:20:41.000Z",
+    "summary": "🎮 Natus Vincere vs Team Falcons",
     "description": "IEM · Beijing 2026 · Group A"
   }
 }
