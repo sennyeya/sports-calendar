@@ -1577,8 +1577,15 @@
   "pandascore-1762448@sports-calendar": {
     "id": "pandascore-1762448@sports-calendar",
     "start": "2026-11-14T10:48:52.000Z",
-    "end": "2026-11-14T13:48:52.000Z",
+    "end": "2026-11-14T13:25:06.000Z",
     "summary": "🎮 FURIA vs Team Falcons",
+    "description": "BLAST Rivals · Fall 2026 · Playoffs"
+  },
+  "pandascore-1762449@sports-calendar": {
+    "id": "pandascore-1762449@sports-calendar",
+    "start": "2026-11-15T08:00:00.000Z",
+    "end": "2026-11-15T11:00:00.000Z",
+    "summary": "🎮 Spirit vs FURIA",
     "description": "BLAST Rivals · Fall 2026 · Playoffs"
   }
 }
